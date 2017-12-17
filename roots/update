@@ -1,0 +1,4 @@
+cp -R ../../latin-greek-roots/dist/* .
+git add --all
+git commit -m "updated"
+git push

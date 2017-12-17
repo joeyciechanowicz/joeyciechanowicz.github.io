@@ -1,0 +1,34 @@
+{
+  "configVersion": 1,
+  "index": "roots/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "roots/index.html",
+        "roots/inline.e23b97949c711a5f5e96.bundle.js",
+        "roots/main.35e062d36ed2e8d76535.bundle.js",
+        "roots/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
+        "roots/styles.75ae81752f83a63bc26a.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "roots/inline.e23b97949c711a5f5e96.bundle.js": "5ee192d8155d0ef53723c38b58867d7659ba0e2a",
+    "roots/main.35e062d36ed2e8d76535.bundle.js": "19b5e8618e7f164e8addd1750124fe0d7fed572d",
+    "roots/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "669df48deb7f2148518a6e8e9490ba8ee2db7000",
+    "roots/styles.75ae81752f83a63bc26a.bundle.css": "e148ee9051d2ae62f216afc83309832b9ffe6697",
+    "roots/index.html": "4d09fca564b56c4d3ca90cf22da4b5eb9ad33dfa"
+  }
+}
